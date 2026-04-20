@@ -1,3 +1,6 @@
+@@ -1,2 +1,1292 @@
+# SweetSafe.github.io
+Discover mouthwatering dessert recipes specially crafted for people with diabetes. Low sugar, low carbs, but never low on flavor.
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Inter:wght@400;500;600&display=swap');
